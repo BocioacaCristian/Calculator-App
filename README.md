@@ -1,2 +1,2 @@
-# Calculator-App
+# Basic Calculator
  
